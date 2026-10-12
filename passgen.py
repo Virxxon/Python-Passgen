@@ -1,5 +1,5 @@
-#RU: Автором программы является Gibstep; профиль автора на GitHub находится по адресу https://github.com/Gibstep . Программа распространяется по лицензии GNU GPL v3.0.
-#EN: The program is authored by Gibsteb; the author’s GitHub profile is at https://github.com/Gibstep . The program is distributed under the GNU GPL v3.0 license.
+#RU: Автором программы является Virxxon; профиль автора на GitHub находится по адресу https://github.com/Virxxon . Программа распространяется по лицензии GNU GPL v3.0.
+#EN: The program is authored by Virxxon; the author’s GitHub profile is at https://github.com/Virxxon . The program is distributed under the GNU GPL v3.0 license.
 
 #Импорт библиотек
 #Imports
